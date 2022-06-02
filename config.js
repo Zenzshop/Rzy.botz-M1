@@ -46,7 +46,7 @@ global.author = 'zyrexbotz'
 global.wait = '「 ⏱️ 」Harap tunggu sebentar...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '©Rzy-botz' //change the watermark 
+global.watermark = '©zyrex-shop' //change the watermark 
 global.image = 'https://telegra.ph/file/1a3eac3701775793618b3.jpg' //change the image
 global.thumbfoto = 'https://telegra.ph/file/ae6f7f701a5be2951648f.jpg'
 
